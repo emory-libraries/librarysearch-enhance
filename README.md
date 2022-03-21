@@ -1,6 +1,6 @@
 # product-enhance
 
-Welcome to the enhancement request repository for {product name}! 
+Welcome to the enhancement request repository for Library Search! 
 
 This repository is dedicated to receive and review enhancement request submissions. 
 
