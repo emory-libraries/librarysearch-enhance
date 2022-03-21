@@ -1,4 +1,4 @@
-# product-enhance
+# librarysearch-enhance
 
 Welcome to the enhancement request repository for Library Search! 
 
